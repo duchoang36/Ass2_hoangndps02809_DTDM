@@ -1,0 +1,34 @@
+<!-- BEGIN: main -->
+<html>
+<head>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link href="css/simple-sidebar.css" rel="stylesheet">
+      </head>
+      <body>
+      <table class="table">
+        <tr>
+            <th  width="8%">Tên SP</th>
+            <th  width="4%">Số lượng</th>
+            <th  width="5%">Giá SP</th>
+        </tr>
+  <!-- BEGIN: loop -->
+   <!-- Bootstrap Core CSS -->
+  <!-- Custom CSS -->
+<tbody>
+  <tr>
+    <td>{DATA.tensp}</td>
+    <td >{DATA.soluong}</td>
+    <td >{DATA.gia}</td>
+    <!-- END: loop -->
+  </tr>
+  <th></th>
+  <th  width="5%">Tổng tiền</th>
+      <td >{DATA.tongtien}</td>
+</tbody>
+
+
+</table>
+</body>
+  </html>
+<!-- END: main -->

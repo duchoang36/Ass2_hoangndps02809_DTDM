@@ -1,0 +1,12 @@
+[07-Oct-2016 10:23:47] PHP Warning:  require_once(../test_db_connect_manager) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/cornerco/public_html/test/test.php on line 4
+[07-Oct-2016 10:23:47] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../test_db_connect_manager' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cornerco/public_html/test/test.php on line 4
+[07-Oct-2016 10:24:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/cornerco/public_html/test/test.php on line 62
+[07-Oct-2016 10:25:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/cornerco/public_html/test/test.php on line 62
+[07-Oct-2016 10:25:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/cornerco/public_html/test/test.php on line 62
+[07-Oct-2016 10:25:39] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/cornerco/public_html/test/test.php on line 72
+[07-Oct-2016 10:25:39] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/cornerco/public_html/test/test.php on line 72
+[07-Oct-2016 10:28:11] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/cornerco/public_html/test/test.php on line 72
+[07-Oct-2016 10:35:09] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/cornerco/public_html/test/test.php on line 72
+[10-Oct-2016 23:13:32] PHP Warning:  Wrong parameter count for array_push() in /home/cornerco/public_html/test/manager_khachhang.php on line 37
+[10-Oct-2016 23:13:53] PHP Warning:  Wrong parameter count for array_push() in /home/cornerco/public_html/test/manager_khachhang.php on line 37
+[10-Oct-2016 23:16:44] PHP Warning:  Wrong parameter count for array_push() in /home/cornerco/public_html/test/manager_khachhang.php on line 37

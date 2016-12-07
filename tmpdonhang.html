@@ -1,0 +1,43 @@
+<!-- BEGIN: main -->
+<html>
+<head>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link href="css/simple-sidebar.css" rel="stylesheet">
+      </head>
+      <body>
+      <table class="table">
+        <tr>
+            <th  width="1%">MaDH</th>
+            <th  width="9%">Tên KH</th>
+            <th  width="7%">SDT</th>
+            <th  width="10%">ngaylapdh</th>
+            <th  width="5%">Tổng tiền</th>
+            <th  width="8%">Ghi Chú</th>
+            <th  width="10%">Trạng Thái</th>
+      <th  width="4.3%"></th>
+      <th  width="4.3%"></th>
+      <th  width="4.3%"></th>
+        </tr>
+  <!-- BEGIN: loop -->
+   <!-- Bootstrap Core CSS -->
+  <!-- Custom CSS -->
+<tbody>
+  <tr>
+    <td>{DATA.madh}</td>
+    <td>{DATA.tenkh}</td>
+    <td>{DATA.sdt}</td>
+    <td>{DATA.ngaylapdh}</td>
+    <td >{DATA.tongtien}</td>
+    <td >{DATA.ghichu}</td>
+    <td >{DATA.trangthaidh}</td>
+    <td ><a href="deletedh.php?madh={DATA.madh}"><img src="image/trashcan.png" width="30px" height="30px"</td>
+    <td ><a href="trangthaidh.php?madh={DATA.madh}"><img src="image/edit.png"  width="30px" height="30px"></a></td>
+    <td ><a href="xemchitietdh.php?madh={DATA.madh}"><img src="image/view.png"  width="30px" height="30px"></a></td>
+  </tr>
+</tbody>
+  <!-- END: loop -->
+</table>
+</body>
+  </html>
+<!-- END: main -->

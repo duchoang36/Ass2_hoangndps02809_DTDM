@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+
+<script>
+function getDate() {
+    var today = new Date();
+var dd = today.getDate();
+var mm = today.getMonth()+1; //January is 0!
+
+var yyyy = today.getFullYear();
+if(dd<10){
+    dd='0'+dd
+} 
+if(mm<10){
+    mm='0'+mm
+} 
+var today =yyyy+'-'+mm+'-'+dd;
+document.getElementById("ngay").value = today;
+}
+</script>
+<head>
+<title>TODO supply a title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<h1 id="aaa">Test Them Khach Hang</h1>
+<form action="themkhachhang.php" method="post">
+Mã Khách Hàng : <input disabled type="text" name="makh" /><br>
+Tên Khách Hàng : <input type="text" name="tenkh" /><br>
+Tên đăng nhập : <input type="text" name="tendn" /><br>
+Mật khẩu : <input type="text" name="matkhau" /><br>
+Địa chỉ : <input type="text" name="diachi" /><br>
+Giới tính : <input type="text" name="gioitinh" /><br>
+SĐT : <input type="text" name="sdt" /><br>
+email : <input type="text" name="email" /><br>
+Ngày đăng ký : <input disabled type="text" id="ngay" name="ngaydangky" /> <input id="clickMe" type="button" value="Lấy giờ hiện tại" onclick="getDate();"> <br>
+<input type="submit" />
+</body>
+</html>

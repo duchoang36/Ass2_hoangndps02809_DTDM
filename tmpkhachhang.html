@@ -1,0 +1,44 @@
+		<!-- BEGIN: main -->
+		<html>
+		<head>
+			<link href="css/bootstrap.min.css" rel="stylesheet">
+		  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<link href="css/simple-sidebar.css" rel="stylesheet">
+					</head>
+					<body>
+					<table class="table">
+						<tr>
+								<th  width="1%">ID</th>
+								<th  width="9.2%">Tên KH</th>
+								<th  width="10%">Hình Ảnh</th>
+								<th  width="11%">Địa chỉ</th>
+								<th  width="8%">SDT</th>
+								<th  width="15%">Email</th>
+								<th  width="4%">Giới tính</th>
+								<th  width="11%">NgàyĐăng Ký</th>
+					<th  width="5%">Trạng Thái</th>
+					<th  width="4.3%"></th>
+						</tr>
+			<!-- BEGIN: loop -->
+			 <!-- Bootstrap Core CSS -->
+			<!-- Custom CSS -->
+		<tbody>
+			<tr>
+				<td>{DATA.makh}</td>
+				<td>{DATA.tenkh}</td>
+				<td><img src="{DATA.hinhanh}" style="width:70px;height:70px;"/></td>
+				<td>{DATA.diachi}</td>
+				<td>{DATA.sdt}</td>
+				<td >{DATA.email}</td>
+				<td>{DATA.gioitinh}</td>
+				<td >{DATA.ngaydangky}</td>
+				<td>{DATA.trangthaikh}</td>
+				<!--<td ><a href="deletekh.php?makh={DATA.makh}"><img src="image/trashcan.png" width="30px" height="30px"</td>-->
+				<td ><a href="capnhatkh.php?makh={DATA.makh}"><img src="image/edit.png"  width="30px" height="30px"></a></td>
+			</tr>
+		</tbody>
+			<!-- END: loop -->
+		</table>
+		</body>
+			</html>
+		<!-- END: main -->

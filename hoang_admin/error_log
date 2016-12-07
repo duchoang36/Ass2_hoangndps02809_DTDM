@@ -1,0 +1,84 @@
+[14-Oct-2016 14:20:12] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 5
+[14-Oct-2016 14:20:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 7
+[14-Oct-2016 14:20:12] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 17
+[14-Oct-2016 14:22:19] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 5
+[14-Oct-2016 14:22:19] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 7
+[14-Oct-2016 14:22:19] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 17
+[14-Oct-2016 14:23:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 5
+[14-Oct-2016 14:23:08] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 7
+[14-Oct-2016 14:23:08] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 17
+[14-Oct-2016 14:24:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 5
+[14-Oct-2016 14:24:09] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 7
+[14-Oct-2016 14:24:09] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 17
+[14-Oct-2016 14:24:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 5
+[14-Oct-2016 14:24:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 7
+[14-Oct-2016 14:24:11] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 17
+[14-Oct-2016 14:25:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 5
+[14-Oct-2016 14:25:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 7
+[14-Oct-2016 14:25:03] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/cornerco/public_html/hoang_admin/h_insertData.php on line 17
+[14-Oct-2016 14:28:08] PHP Warning:  include(index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cornerco/public_html/hoang_admin/h_postinsert.php on line 2
+[14-Oct-2016 14:28:08] PHP Warning:  include(index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cornerco/public_html/hoang_admin/h_postinsert.php on line 2
+[14-Oct-2016 14:28:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'index.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cornerco/public_html/hoang_admin/h_postinsert.php on line 2
+[15-Oct-2016 00:22:05] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/h_display.php on line 12
+[15-Oct-2016 00:30:57] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/h_display.php on line 12
+[15-Oct-2016 00:31:46] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/h_display.php on line 12
+[15-Oct-2016 00:34:04] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/h_display.php on line 12
+[15-Oct-2016 00:35:05] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/h_display.php on line 12
+[15-Oct-2016 00:51:28] PHP Parse error:  syntax error, unexpected '>' in /home/cornerco/public_html/hoang_admin/h_display.php on line 10
+[15-Oct-2016 00:51:51] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/h_display.php on line 11
+[15-Oct-2016 00:54:45] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/cornerco/public_html/hoang_admin/h_display.php on line 15
+[15-Oct-2016 01:04:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cornerco'@'localhost' (using password: NO) in /home/cornerco/public_html/hoang_admin/delete.php on line 10
+[15-Oct-2016 01:04:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cornerco/public_html/hoang_admin/delete.php on line 10
+[15-Oct-2016 01:05:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'cornerco'@'localhost' (using password: NO) in /home/cornerco/public_html/hoang_admin/delete.php on line 10
+[15-Oct-2016 01:05:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/cornerco/public_html/hoang_admin/delete.php on line 10
+[15-Oct-2016 16:27:46] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 16:28:57] PHP Parse error:  syntax error, unexpected $end in /home/cornerco/public_html/hoang_admin/h_display.php on line 29
+[15-Oct-2016 16:35:21] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 16:35:48] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 16:36:17] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 16:36:51] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 9
+[15-Oct-2016 16:45:05] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 16:51:39] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 16:51:51] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 17:05:05] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cornerco/public_html/hoang_admin/h_display.php on line 15
+[15-Oct-2016 17:07:44] PHP Warning:  Invalid argument supplied for foreach() in /home/cornerco/public_html/hoang_admin/h_display.php on line 12
+[15-Oct-2016 17:08:43] PHP Warning:  Invalid argument supplied for foreach() in /home/cornerco/public_html/hoang_admin/h_display.php on line 12
+[15-Oct-2016 17:28:19] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 17:29:33] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cornerco/public_html/hoang_admin/h_display.php on line 8
+[15-Oct-2016 17:38:40] PHP Fatal error:  Call to undefined function http://25corner.com/hoang_admin/photos/fdsfsbdfbvbcvb.jpg() in /home/cornerco/public_html/hoang_admin/h_display.php on line 23
+[15-Oct-2016 17:38:58] PHP Fatal error:  Call to undefined function http://25corner.com/hoang_admin/photos/fdsfsbdfbvbcvb.jpg() in /home/cornerco/public_html/hoang_admin/h_display.php on line 23
+[15-Oct-2016 17:38:59] PHP Fatal error:  Call to undefined function http://25corner.com/hoang_admin/photos/fdsfsbdfbvbcvb.jpg() in /home/cornerco/public_html/hoang_admin/h_display.php on line 23
+[15-Oct-2016 17:39:00] PHP Fatal error:  Call to undefined function http://25corner.com/hoang_admin/photos/fdsfsbdfbvbcvb.jpg() in /home/cornerco/public_html/hoang_admin/h_display.php on line 23
+[15-Oct-2016 17:39:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/cornerco/public_html/hoang_admin/h_display.php on line 22
+[15-Oct-2016 17:39:43] PHP Fatal error:  Call to undefined function 13() in /home/cornerco/public_html/hoang_admin/h_display.php on line 22
+[15-Oct-2016 17:40:33] PHP Fatal error:  Call to undefined function 13() in /home/cornerco/public_html/hoang_admin/h_display.php on line 22
+[15-Oct-2016 17:41:22] PHP Fatal error:  Call to undefined function http://25corner.com/hoang_admin/photos/fdsfsbdfbvbcvb.jpg() in /home/cornerco/public_html/hoang_admin/h_display.php on line 29
+[15-Oct-2016 17:42:35] PHP Fatal error:  Call to undefined function http://25corner.com/hoang_admin/photos/fdsfsbdfbvbcvb.jpg() in /home/cornerco/public_html/hoang_admin/h_display.php on line 28
+[15-Oct-2016 17:42:50] PHP Fatal error:  Call to undefined function 13() in /home/cornerco/public_html/hoang_admin/h_display.php on line 27
+[15-Oct-2016 17:46:28] PHP Fatal error:  Call to undefined function b() in /home/cornerco/public_html/hoang_admin/h_display.php on line 23
+[15-Oct-2016 17:50:20] PHP Parse error:  syntax error, unexpected T_AS in /home/cornerco/public_html/hoang_admin/h_display.php on line 6
+[15-Oct-2016 17:52:10] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/cornerco/public_html/hoang_admin/h_display.php on line 7
+[16-Oct-2016 18:24:19] PHP Warning:  include(connect-db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cornerco/public_html/hoang_admin/edit.php on line 39
+[16-Oct-2016 18:24:19] PHP Warning:  include(connect-db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/cornerco/public_html/hoang_admin/edit.php on line 39
+[16-Oct-2016 18:24:19] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'connect-db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cornerco/public_html/hoang_admin/edit.php on line 39
+[16-Oct-2016 18:54:19] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/edit.php on line 9
+[16-Oct-2016 18:55:10] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/edit.php on line 8
+[16-Oct-2016 18:56:22] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/edit.php on line 8
+[16-Oct-2016 18:56:49] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cornerco/public_html/hoang_admin/edit.php on line 8
+[16-Oct-2016 19:00:56] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/cornerco/public_html/hoang_admin/edit.php on line 3
+[16-Oct-2016 19:00:56] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/cornerco/public_html/hoang_admin/edit.php on line 4
+[16-Oct-2016 19:02:24] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/cornerco/public_html/hoang_admin/edit.php on line 4
+[16-Oct-2016 19:03:40] PHP Parse error:  syntax error, unexpected '{' in /home/cornerco/public_html/hoang_admin/edit.php on line 6
+[16-Oct-2016 19:04:07] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/cornerco/public_html/hoang_admin/edit.php on line 4
+[16-Oct-2016 19:04:07] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/edit.php on line 5
+[16-Oct-2016 19:04:57] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/cornerco/public_html/hoang_admin/edit.php on line 4
+[16-Oct-2016 19:04:57] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/cornerco/public_html/hoang_admin/edit.php on line 5
+[16-Oct-2016 19:05:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/cornerco/public_html/hoang_admin/edit.php on line 4
+[16-Oct-2016 19:05:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/cornerco/public_html/hoang_admin/edit.php on line 5
+[16-Oct-2016 19:07:18] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/cornerco/public_html/hoang_admin/edit.php on line 10
+[16-Oct-2016 19:08:20] PHP Parse error:  syntax error, unexpected '>' in /home/cornerco/public_html/hoang_admin/edit.php on line 12
+[16-Oct-2016 19:09:15] PHP Parse error:  syntax error, unexpected '>' in /home/cornerco/public_html/hoang_admin/edit.php on line 12
+[16-Oct-2016 19:10:29] PHP Parse error:  syntax error, unexpected T_ECHO in /home/cornerco/public_html/hoang_admin/edit.php on line 9
+[16-Oct-2016 19:12:23] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/cornerco/public_html/hoang_admin/edit.php on line 12
+[16-Oct-2016 19:19:09] PHP Parse error:  syntax error, unexpected $end in /home/cornerco/public_html/hoang_admin/edit2.php on line 98
+[16-Oct-2016 19:25:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cornerco/public_html/hoang_admin/edit2.php on line 4

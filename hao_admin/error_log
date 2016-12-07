@@ -1,0 +1,73 @@
+[12-Oct-2016 21:26:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/cornerco/public_html/hao_admin/adminlogin1.php on line 8
+[12-Oct-2016 23:31:16] PHP Fatal error:  Call to undefined function  msql_num_rows() in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:07] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:08] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:09] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:09] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:09] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:09] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:09] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[12-Oct-2016 23:36:20] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 6
+[12-Oct-2016 23:36:21] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 6
+[12-Oct-2016 23:36:21] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 6
+[12-Oct-2016 23:36:21] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 6
+[12-Oct-2016 23:36:21] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 6
+[12-Oct-2016 23:40:05] PHP Parse error:  syntax error, unexpected $end in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[12-Oct-2016 23:40:26] PHP Parse error:  syntax error, unexpected $end in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[12-Oct-2016 23:40:27] PHP Parse error:  syntax error, unexpected $end in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[12-Oct-2016 23:40:47] PHP Parse error:  syntax error, unexpected $end in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[12-Oct-2016 23:40:48] PHP Parse error:  syntax error, unexpected $end in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[12-Oct-2016 23:56:52] PHP Fatal error:  Call to undefined function  msql_num_rows() in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 7
+[13-Oct-2016 00:06:44] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:07:12] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:08:14] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:08:15] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:08:15] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:08:15] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:08:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 19
+[13-Oct-2016 00:08:30] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 19
+[13-Oct-2016 00:09:06] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 19
+[13-Oct-2016 00:09:07] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 19
+[13-Oct-2016 00:18:54] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 6
+[13-Oct-2016 00:18:54] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:19:02] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:19:26] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:19:27] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:19:28] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:19:30] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:23:35] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:23:36] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:23:36] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:23:36] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:24:08] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:24:09] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:24:09] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:24:09] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:24:09] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:24:09] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:26:25] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:26:48] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:26:48] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:26:48] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:26:49] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:27:39] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:27:39] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:27:39] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:27:39] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:27:39] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:28:05] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:28:05] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:28:06] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:28:06] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:29:14] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:29:14] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:29:15] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:03] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:04] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:04] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:04] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:04] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:04] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:04] PHP Parse error:  syntax error, unexpected ';' in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 12
+[13-Oct-2016 00:30:21] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 19
+[13-Oct-2016 00:30:22] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/cornerco/public_html/hao_admin/adminlogin2.php on line 19

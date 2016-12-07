@@ -1,0 +1,63 @@
+		<!-- BEGIN: main -->
+		<html>
+		<head>
+			<link href="css/bootstrap.min.css" rel="stylesheet">
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<link href="css/simple-sidebar.css" rel="stylesheet">
+			<script>
+					var checkbox = document.getElementById("chkbox");
+					var x = document.form[0][0].value;
+					alert(x)
+					if ({DATA.trangthaisp} > x){
+						checkbox.checked = true;
+						checkbox.setAttribute("checked", "true");
+					}
+			</script>
+				</head>
+						<body>
+						<table class="table">
+							<tr>
+									<th width="5%">ID</th>
+									<th width="10%">IMAGE</th>
+									<th width="9%">Tênsp</th>
+									<th width="13%">Thôngtin</th>
+									<th width="5%">Thể loại</th>
+									<th width="5%">MaQT</th>
+									<th  width="8%">ngàythêm</th>
+									<th  width="5%">hiển thị</th>
+									<th width="3%" ></th>
+							</tr>
+			<!-- BEGIN: loop -->
+			 <!-- Bootstrap Core CSS -->
+			<!-- Custom CSS -->
+			<tbody>
+				<tr>
+				<td>{DATA.masp}</td>
+				<td><img src="{DATA.hinhanh}" style="text-alight:center; height:70px;width:80px"/></td>
+				<td >{DATA.tensp}</td>
+				<td> {DATA.thongtinsp} <a href="index.php?masp={DATA.masp}"><button onclick="showDialog()" class="btn btn-link">....</button></td>
+				<td>{DATA.tentheloai}</td>
+				<td>{DATA.tenqt}</td>
+				<td>{DATA.ngaythem}</td>
+				<td>{DATA.trangthaisp}
+				</td>
+ 		  	<!--<td  width="3%" height="30px"><a href="deletesp.php?masp={DATA.masp}"><img src="image/trashcan.png"  width="30px" height="30px"></a>-->
+				</td>
+				<td width="3%" height="30px"><a href="capnhatsanpham.php?masp={DATA.masp}"><img src="image/edit.png"  width="30px" height="30px"></a></td>
+			</tr>
+		</tbody>
+			<!-- END: loop -->
+	</table>
+	</body>
+			<script>
+			var x = document.getElementById("myDialog");
+			function showDialog() {
+				x.show();
+			}
+
+			function closeDialog() {
+				x.close();
+			}
+			</script>
+			</html>
+		<!-- END: main -->
